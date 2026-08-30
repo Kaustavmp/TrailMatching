@@ -1,0 +1,13 @@
+# Copy to ~/.dbt/profiles.yml (or set DBT_PROFILES_DIR) and fill in credentials.
+trialmatch:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: trialmatch
+      password: changeme
+      port: 5432
+      dbname: trialmatch
+      schema: public
+      threads: 4

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/raw/
+data/processed/
+!data/sample/
+*.parquet
+dbt/trialmatch_dbt/target/
+dbt/trialmatch_dbt/logs/
+dbt/trialmatch_dbt/profiles.yml
+.pytest_cache/
+.DS_Store
+*.log

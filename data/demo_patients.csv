@@ -1,0 +1,26 @@
+patient_id,display_name,gender,age,conditions,conditions_str
+demo-000,Alex #000,female,50,['Asthma'],Asthma
+demo-001,Taylor #001,male,73,['Type 2 diabetes mellitus'],Type 2 diabetes mellitus
+demo-002,Sam #002,male,48,['Osteoarthritis'],Osteoarthritis
+demo-003,Liam #003,male,72,['Asthma'],Asthma
+demo-004,Sofia #004,female,19,"['Breast cancer', 'Chronic kidney disease']","Breast cancer, Chronic kidney disease"
+demo-005,Avery #005,male,46,"['Rheumatoid arthritis', 'Hypertension']","Rheumatoid arthritis, Hypertension"
+demo-006,Fatima #006,male,64,['Rheumatoid arthritis'],Rheumatoid arthritis
+demo-007,Jordan #007,female,34,"['Chronic kidney disease', 'Hypertension']","Chronic kidney disease, Hypertension"
+demo-008,Kwame #008,female,43,"['Hypertension', 'Type 2 diabetes mellitus']","Hypertension, Type 2 diabetes mellitus"
+demo-009,Quinn #009,male,48,['Hypertension'],Hypertension
+demo-010,Avery #010,female,65,"['Breast cancer', 'Rheumatoid arthritis']","Breast cancer, Rheumatoid arthritis"
+demo-011,Riley #011,female,28,"['Hypothyroidism', 'Breast cancer']","Hypothyroidism, Breast cancer"
+demo-012,Casey #012,female,67,['Major depressive disorder'],Major depressive disorder
+demo-013,Priya #013,male,48,['Type 2 diabetes mellitus'],Type 2 diabetes mellitus
+demo-014,Fatima #014,female,27,"['Asthma', 'Rheumatoid arthritis']","Asthma, Rheumatoid arthritis"
+demo-015,Noah #015,female,77,['Breast cancer'],Breast cancer
+demo-016,Morgan #016,male,52,"['Hypothyroidism', 'Chronic kidney disease']","Hypothyroidism, Chronic kidney disease"
+demo-017,Wei #017,male,36,"['Osteoarthritis', 'Coronary artery disease']","Osteoarthritis, Coronary artery disease"
+demo-018,Jordan #018,male,38,['Breast cancer'],Breast cancer
+demo-019,Kwame #019,male,68,"['Chronic kidney disease', 'Coronary artery disease']","Chronic kidney disease, Coronary artery disease"
+demo-020,Liam #020,male,33,"['Osteoarthritis', 'Major depressive disorder']","Osteoarthritis, Major depressive disorder"
+demo-021,Taylor #021,female,74,"['Breast cancer', 'Coronary artery disease']","Breast cancer, Coronary artery disease"
+demo-022,Avery #022,male,32,['Major depressive disorder'],Major depressive disorder
+demo-023,Morgan #023,female,39,['Osteoarthritis'],Osteoarthritis
+demo-024,Kwame #024,female,81,['Type 2 diabetes mellitus'],Type 2 diabetes mellitus
